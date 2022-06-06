@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplicación 1</string>
+    <string name="hello_world" translatable="false">Qué andas sapo?</string>
+    <string name="contact_app" translatable="false">Contact App</string>
+    <string name="btn_1" translatable="false">Register</string>
+    <string name="btn2" translatable="false">Call</string>
+    <string name="btn_3" translatable="false">Delete</string>
+</resources>
