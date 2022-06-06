@@ -1,2 +1,0 @@
-# AplicacionesMoviles
-Aplicaciones móviles EPN
