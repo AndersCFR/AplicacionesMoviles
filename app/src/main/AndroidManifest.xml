@@ -9,20 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication0">
-        <activity android:name=".MainActivity3"></activity>
-        <activity android:name=".ejercicio" />
-        <activity android:name=".MainActivity2" />
+        <!--
+       En la parte de arriba  puedes restringir el giro
+       android:screenOrientation="landscape"
+       -->
         <activity
-            android:name=".MainActivity"
+            android:name=".MainActivity4"
             android:exported="true">
-
-            <!--
-            En la parte de arriba  puedes restringir el giro
-            android:screenOrientation="landscape"
-            -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
